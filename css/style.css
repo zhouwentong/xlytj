@@ -207,14 +207,15 @@ zoom: 1;background:rgba(0,0,0,0.2); color:#FFFFFF; padding-left:14px; width:565p
 
 /*-------------------模块m12--------------------------*/
 .m12{position:fixed; bottom:150px; left:50%; margin-left:510px;}
-.m12 .br1 a{background:url(../img/m12-a.png) no-repeat; _background:url(../img/ie6/m12-a.gif) no-repeat; width:87px; height:74px; display:block; text-indent:-999em;}
+.m12 .br1 a{background:url(../img/m12-a.png) no-repeat; width:87px; height:74px; display:block; text-indent:-999em;}
 * html .m12{position:absolute;bottom:auto;top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||150)));}
 .m12 .br2 a,
 .m12 .br3 a{display:block; background:url(../img/m12-br2-a.png) no-repeat; width:84px; height:28px; text-indent:-999em; margin-top:10px;}
 .m12 .br3 a{background:url(../img/m12-br3-a.png) no-repeat;}
 .m12 .br4 a{display:block; margin-top:10px; background:url(../img/m12-br4-a.png) no-repeat; width:84px; height:61px; text-indent:-999em;}
 /*-------------------模块m13--------------------------*/
-.m13{position:fixed; bottom:250px; left:50%; margin-left:-600px;}
+.m13{position:fixed; bottom:250px; left:50%; margin-left:-620px; background:#FDFF38; text-align:center; padding:15px 10px; border-radius:6px;}
+.m13 div{color:#FF7E33;}
 * html .m13{position:absolute;bottom:auto;top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||250)));}
 /*-------------------模块m14--------------------------*/
 .m14{background:#fff; padding:15px; margin-bottom:15px; margin-top:448px;}
