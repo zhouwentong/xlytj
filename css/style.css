@@ -123,7 +123,7 @@ body{background:url(../img/body.jpg) repeat-x left 33px #84CC21;}
 .ma .h span{font-size:18px; vertical-align:top;}
 .ma .b{background:#fff; padding:9px 15px;}
 .mb .h{background:url(../img/mb-h.png) no-repeat; height:60px;}
-.mb h2{padding:12px 0 0 50px; height:48px; line-height:48px; text-indent:-999em;}
+.mb h2{padding:12px 0 0 50px; height:48px; line-height:48px; font-size:24px; color:#640400; font-family:'微软雅黑'; font-weight:normal;}
 .mb .hr{top:24px; right:22px;}
 .mb .hr span{font-size:20px; color:#fff; font-family:'微软雅黑'; margin-left:12px;}
 .mb .hr a{display:block; background:url(../img/mb-a.png) no-repeat; width:104px; height:28px; line-height:28px; padding-left:8px; font-size:16px; color:#FD6B1B; font-style:italic; font-family:'微软雅黑'; font-weight:bold;}
@@ -191,12 +191,9 @@ zoom: 1;background:rgba(0,0,0,0.2); color:#FFFFFF; padding-left:14px; width:565p
 .m7 li a{color:#fff;} 
 .txtScroll-top1 .bd{ padding:18px;  }
 .txtScroll-top1 .infoList li{ height:24px; line-height:24px;   }
-/*-------------------模块m8--------------------------*/
-.m8 h2{background:url(../img/m8-h2.png) no-repeat 50px 22px;}
-/*-------------------模块m9--------------------------*/
-.m9 h2{background:url(../img/m8-h2.png) no-repeat 50px 22px;}
+
 /*-------------------模块m10--------------------------*/
-.m10{background:#fff;}
+.m10{background:#fff; padding:20px;}
 /*-------------------模块m11--------------------------*/
 .m11{background:url(../img/m11.png) no-repeat; height:130px; margin-bottom:15px;}
 .m11 .picMarquee-left{ width:924px; overflow:hidden; position:relative; border:none; padding-left:64px; padding-top:12px;}
@@ -232,7 +229,7 @@ zoom: 1;background:rgba(0,0,0,0.2); color:#FFFFFF; padding-left:14px; width:565p
 /*-------------------模块m15--------------------------*/
 .xwlb{background:#fff; margin-top:448px; padding:15px 20px;}
 .m15{border-bottom:1px dashed #DBDBDB; margin-bottom:20px;}
-.m15 .b{padding-top:25px; padding-bottom:21px;}
+.m15 .b{padding-top:25px; padding-bottom:21px; text-align:center;}
 .m15 .b a{ display:inline-block; border:1px solid #93A3C1; height:20px; line-height:20px; color:#16387C; margin-right:10px; padding:0 5px;}
 /*-------------------模块m16--------------------------*/
 .m16 .b ul{margin-bottom:38px;}
@@ -240,3 +237,6 @@ zoom: 1;background:rgba(0,0,0,0.2); color:#FFFFFF; padding-left:14px; width:565p
 .m16 .b li span{color:#999999; font-size:12px; margin-left:10px;}
 /*-------------------模块m17--------------------------*/
 .m17 dl{margin:10px 20px;}
+
+.mbx{margin:10px 20px;}
+.mbx a{margin:0 5px;}
