@@ -198,11 +198,11 @@ zoom: 1;background:rgba(0,0,0,0.2); color:#FFFFFF; padding-left:14px; width:565p
 /*-------------------模块m10--------------------------*/
 .m10{background:#fff; padding:20px;}
 /*-------------------模块m11--------------------------*/
-.m11{background:url(../img/m11.png) no-repeat; height:153px; margin-bottom:15px;}
+.m11{background:url(../img/m11.png) no-repeat; height:130px; margin-bottom:15px;}
 .m11 .picMarquee-left{ width:924px; overflow:hidden; position:relative; border:none; padding-left:64px; padding-top:12px;}
 .m11 .picMarquee-left .bd{ padding:10px;}
 .m11 .picMarquee-left .bd ul li{ margin:0 4px;}
-.m11 .picMarquee-left .bd ul li .pic img{ width:301px; height:116px; border:none; padding:0; }
+.m11 .picMarquee-left .bd ul li .pic img{ width:226px; height:87px; border:none; padding:0; }
 .m11 .picMarquee-left .bd ul li .pic a:hover img{ border-color:#999;  }
 
 /*-------------------模块m12--------------------------*/
