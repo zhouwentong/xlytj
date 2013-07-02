@@ -137,12 +137,13 @@ zoom: 1; background:rgba(0,0,0,0.2); padding-left:22px; width:347px; color:#fff;
 .mb p{line-height:24px;}
 .mb .more{text-align:right;}
 .mb .more a{font-size:18px; color:#FB730A; font-family:'微软雅黑';}
-.mb .picMarquee-left{ width:571px; padding:0; margin-top:15px; border:1px solid #ccc; }
-.mb .picMarquee-left .hd .prev,.picMarquee-left .hd .next{background:url("../img/icoLeft.gif") no-repeat;}
-.mb .picMarquee-left .hd .next{ background:url("../img/icoRight.gif") no-repeat;  }
-.mb .picMarquee-left .bd ul li{ margin:0 9px;}
-.mb .picMarquee-left .bd ul li .pic img{ width:120px; height:90px; display:block; padding:2px; border:1px solid #ccc; }
-.mb .picMarquee-left .bd ul li .pic a:hover img{ border-color:#999;  }
+.mb .picScroll-left{ width:571px; padding:0; margin-top:15px; border:1px solid #ccc; }
+.mb .picScroll-left .hd .prev,.picMarquee-left .hd .next{background:url("../img/icoLeft.gif") no-repeat;}
+.mb .picScroll-left .hd .next{ background:url("../img/icoRight.gif") no-repeat;  }
+.mb .picScroll-left .bd ul li{ margin:0 7px;}
+.mb .picScroll-left .bd ul li .pic img{ width:120px; height:90px; display:block; padding:2px; border:1px solid #ccc; }
+.mb .picScroll-left .bd ul li .pic a:hover img{ border-color:#999;  }
+.mb .pageState{display:none;}
 /*-------------------模块m1--------------------------*/
 .m1{margin-top:448px;}
 .m1 .b{background:#FDE817; padding:20px 0 7px;}
